@@ -1,0 +1,62 @@
+h1{
+    color:#244937 ;
+    font-size: xx-large;
+    
+}
+
+body{
+    background-color: #fff8dc ;
+    
+}
+
+.Homepage{
+    word-spacing: 200px;
+    padding: 10px;
+    text-align: left;
+    color: #244937;
+}
+
+button{
+    padding: 100px;
+    width:150px;
+    padding-top: 10px; 
+    color: #fff8dc ; 
+    background-color:#244937;
+    border-radius: 10px;
+    text-align: center !important;
+
+}
+
+.border-btm{
+    size: 2px ;
+    display: flex;
+}
+
+.Math{
+    padding-right: 15px;
+    text-align: center !important;
+}
+
+.bio{
+    padding-right: 15px;
+    text-align: center !important;
+}
+
+.chem{
+    padding-right: 15px;
+    text-align: center !important;
+}
+
+.histo{
+    padding-right: 15px;
+    text-align: center;
+}
+
+form{
+    color: #5f9ea0;
+}
+
+.mycourses-switch, .allcourses-switch{
+    color:#244937;
+}
+
