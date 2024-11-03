@@ -17,12 +17,14 @@ body{
 }
 
 button{
-    padding: 100px;
+     padding: 100px;
     width:150px;
     padding-top: 10px; 
-    color: #fff8dc ; 
-    background-color:#244937;
+    color: #244937 ; 
+    background-color:#6f9289;
     border-radius: 10px;
+    border-color: #fffaf0;
+    font-size:large;
     text-align: center !important;
 
 }
